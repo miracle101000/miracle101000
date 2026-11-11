@@ -20,7 +20,6 @@ I own mobile features end to end: design, build, testing, App Store / Google Pla
 - 📱 Currently a **Flutter Engineer at [Colnect](https://colnect.com)**, building across 12+ live Flutter apps on iOS and Android.
 - ❤️ Drawn to products with real human impact: digital health, mental health and FinTech.
 - 🔌 I write Flutter plugins that bridge to native APIs (Kotlin, Swift, Objective-C): Core ML, Core Haptics, CoreMotion, LiteRT/TensorFlow Lite.
-- 💰 Side project: **FendoMoney**, a Nigerian crypto-to-fiat app with tiered KYC, bank payouts and a rewards ledger (Flutter + Supabase).
 - 🎓 Studying an **MSc in Data Science** at the University of Greenwich.
 
 ## 💼 Experience
