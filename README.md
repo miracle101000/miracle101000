@@ -93,7 +93,7 @@ I own mobile features end to end: design, build, testing, App Store / Google Pla
 
 <table>
   <tr>
-    <td align="center" width="80"><img src="assets/university-of-greenwich.png" height="56" alt="University of Greenwich logo"/></td>
+    <td align="center" width="80"><img src="assets/university-of-greenwich.jpeg" height="56" alt="University of Greenwich logo"/></td>
     <td><b>MSc Data Science, Distinction</b><br/>University of Greenwich, London</td>
     <td>Aug&nbsp;2025&nbsp;⁠–⁠&nbsp;Sep&nbsp;2026</td>
   </tr>
