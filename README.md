@@ -98,7 +98,7 @@ I own mobile features end to end: design, build, testing, App Store / Google Pla
     <td>Aug&nbsp;2025&nbsp;⁠–⁠&nbsp;Sep&nbsp;2026</td>
   </tr>
   <tr>
-    <td></td>
+    <td align="center" width="80"><img src="assets/nanjing-university-of-science-and-technology.png" height="56" alt="Nanjing University of Science and Technology logo"/></td>
     <td><b>BSc Computer Software Engineering</b><br/>Nanjing University of Science and Technology, China</td>
     <td>Sep&nbsp;2018&nbsp;⁠–⁠&nbsp;Jun&nbsp;2022</td>
   </tr>
