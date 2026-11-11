@@ -20,7 +20,7 @@ I own mobile features end to end: design, build, testing, App Store / Google Pla
 - 📱 Currently a **Flutter Engineer at [Colnect](https://colnect.com)**, building across 12+ live Flutter apps on iOS and Android.
 - ❤️ Drawn to products with real human impact: digital health, mental health and FinTech.
 - 🔌 I write Flutter plugins that bridge to native APIs (Kotlin, Swift, Objective-C): Core ML, Core Haptics, CoreMotion, LiteRT/TensorFlow Lite.
-- 🎓 Studying an **MSc in Data Science** at the University of Greenwich.
+- 🎓 **MSc in Data Science with Distinction** from the University of Greenwich.
 
 ## 💼 Experience
 
@@ -91,8 +91,16 @@ I own mobile features end to end: design, build, testing, App Store / Google Pla
 
 ## 🎓 Education
 
-- **MSc Data Science**, University of Greenwich (Aug 2025 – Sep 2026)
-- **BSc Computer Software Engineering**, Nanjing University of Science and Technology (Sep 2018 – Jun 2022)
+<table>
+  <tr>
+    <td align="center" width="72"><img src="assets/university-of-greenwich.png" height="56" alt="University of Greenwich logo"/></td>
+    <td><b>MSc Data Science, Distinction</b><br/>University of Greenwich · Aug 2025 – Sep 2026</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><b>BSc Computer Software Engineering</b><br/>Nanjing University of Science and Technology · Sep 2018 – Jun 2022</td>
+  </tr>
+</table>
 
 ## 📊 GitHub stats
 
