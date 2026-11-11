@@ -20,17 +20,17 @@ I own mobile features end to end: design, build, testing, App Store / Google Pla
 - 📱 Currently a **Flutter Engineer at [Colnect](https://colnect.com)**, building across 12+ live Flutter apps on iOS and Android.
 - ❤️ Drawn to products with real human impact: digital health, mental health and FinTech.
 - 🔌 I write Flutter plugins that bridge to native APIs (Kotlin, Swift, Objective-C): Core ML, Core Haptics, CoreMotion, LiteRT/TensorFlow Lite.
-- 🎓 Studying an **MSc in Data Science** at the University of Greenwich.
+- 🎓 **MSc in Data Science with Distinction** from the University of Greenwich.
 
 ## 💼 Experience
 
 | Role | Company | When | Highlights |
 | --- | --- | --- | --- |
-| Flutter Engineer | Colnect | Jul 2025 – present | Own architecture, stability and release quality across 12+ live apps. Cut the release window from ~2 hours to ~20 minutes with Fastlane CI/CD. On-device ML plugin work and FreeRASP app hardening. |
-| Mobile Developer (contract) | eTranzact PLC | Apr 2025 – Sep 2025 | MVVM refactor of a production FinTech app with ~25% fewer crashes. KYC and native biometrics integrations. Security audit with zero findings. |
-| Flutter Engineer (part-time) | LePal.ai | Jul 2024 – Nov 2024 | Design-led Flutter UI for a mental-health product. Hand-built animations at 60 fps on older devices. Riverpod and in-app purchases. |
-| Mobile Cross-Platform Developer | Uniccon Group | Mar 2023 – Feb 2024 | FinTech and EdTech apps with KYC, biometrics and wallets. Most Innovative Staff of the Year 2023 (out of 120+ staff). |
-| Freelance Flutter Engineer | Self-employed | Dec 2022 – Mar 2025 | HeartifyNovel on Google Play: 50,000+ users and 65% 30-day retention. StoreKit / Play Billing and Agora live streaming. |
+| Flutter Engineer | Colnect | Jul&nbsp;2025&nbsp;⁠–⁠&nbsp;present | Own architecture, stability and release quality across 12+ live apps. Cut the release window from ~2 hours to ~20 minutes with Fastlane CI/CD. On-device ML plugin work and FreeRASP app hardening. |
+| Mobile Developer (contract) | eTranzact PLC | Apr&nbsp;2025&nbsp;⁠–⁠&nbsp;Sep&nbsp;2025 | MVVM refactor of a production FinTech app with ~25% fewer crashes. KYC and native biometrics integrations. Security audit with zero findings. |
+| Flutter Engineer (part-time) | LePal.ai | Jul&nbsp;2024&nbsp;⁠–⁠&nbsp;Nov&nbsp;2024 | Design-led Flutter UI for a mental-health product. Hand-built animations at 60 fps on older devices. Riverpod and in-app purchases. |
+| Mobile Cross-Platform Developer | Uniccon Group | Mar&nbsp;2023&nbsp;⁠–⁠&nbsp;Feb&nbsp;2024 | FinTech and EdTech apps with KYC, biometrics and wallets. Most Innovative Staff of the Year 2023 (out of 120+ staff). |
+| Freelance Flutter Engineer | Self-employed | Dec&nbsp;2022&nbsp;⁠–⁠&nbsp;Mar&nbsp;2025 | HeartifyNovel on Google Play: 50,000+ users and 65% 30-day retention. StoreKit / Play Billing and Agora live streaming. |
 
 ## 🛠️ Tech stack
 
@@ -91,8 +91,18 @@ I own mobile features end to end: design, build, testing, App Store / Google Pla
 
 ## 🎓 Education
 
-- **MSc Data Science**, University of Greenwich (Aug 2025 – Sep 2026)
-- **BSc Computer Software Engineering**, Nanjing University of Science and Technology (Sep 2018 – Jun 2022)
+<table>
+  <tr>
+    <td align="center" width="80"><img src="assets/university-of-greenwich.png" height="56" alt="University of Greenwich logo"/></td>
+    <td><b>MSc Data Science, Distinction</b><br/>University of Greenwich, London</td>
+    <td>Aug&nbsp;2025&nbsp;⁠–⁠&nbsp;Sep&nbsp;2026</td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="assets/nanjing-university-of-science-and-technology.png" height="56" alt="Nanjing University of Science and Technology logo"/></td>
+    <td><b>BSc Computer Software Engineering</b><br/>Nanjing University of Science and Technology, China</td>
+    <td>Sep&nbsp;2018&nbsp;⁠–⁠&nbsp;Jun&nbsp;2022</td>
+  </tr>
+</table>
 
 ## 📊 GitHub stats
 
